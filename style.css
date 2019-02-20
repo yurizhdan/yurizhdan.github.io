@@ -149,7 +149,7 @@
     justify-content: space-around;
     height: auto;
     width: 80%;
-    margin: 50px auto;
+    margin: 25px auto;
 }
 
 .thr-page-wrap div p{
@@ -158,8 +158,8 @@
     font-weight: bold;
     text-transform: uppercase;
     text-shadow: 2px 2px 2px #191818;
-    font-size: 1.9em;
-    margin: 15px 80px;
+    font-size: 1.4em;
+    margin: 15px 70px;
 }
 
 .four-page{
